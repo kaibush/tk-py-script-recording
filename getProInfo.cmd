@@ -1,0 +1,1 @@
+tasklist | find "adb.exe"
